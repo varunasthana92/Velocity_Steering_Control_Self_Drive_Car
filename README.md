@@ -27,7 +27,8 @@ Design longitudinal (velocity) and lateral (steering) controller for a car to op
 ## Output
 * Trajectory Control as compared to ground truth.
 <p align="center">
-<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/result.png" width = 500>
+	<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/trajectory.png" width = 300>
+	<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/result.png" width = 500>
 </p>
 
 * Speed as compared to ground truth
