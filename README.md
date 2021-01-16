@@ -4,7 +4,7 @@
 Design longitudinal (velocity) and lateral (steering) controller for a car to operate autonomously. Simulation done in Carla Simulator.  Reference velocity and waypoints are given for a race track.
 
 <p align="center">
-<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/self_drive.gif" width = 600>
+<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/self_drive.gif" width = 700>
 </p>
 
 ## Dependencies
