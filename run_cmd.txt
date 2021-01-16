@@ -1,0 +1,16 @@
+## Run Carla Simulator
+```
+$ ./CarlaUE4.sh /Game/Maps/RaceTrack -windowed -carla-server -benchmark -fps=30
+```
+
+In another terminal
+
+```
+$ python3.6 main.py
+```
+
+Result Verification
+
+```
+python3.6 grade_c1m7.py racetrack_waypoints.txt /controller_output/trajectory.txt
+```
