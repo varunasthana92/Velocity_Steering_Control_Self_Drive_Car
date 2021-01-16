@@ -1,7 +1,11 @@
 # Velocity & Steering Control for a Self Driving Car
 
 ## Overview
-In Carla Simulator for a race track, reference velocity and waypoints are given. Need to design a longitudinal (velocity) and lateral (steering)  controller for the vechile to operate run autonomously.
+Design longitudinal (velocity) and lateral (steering) controller for a car to operate autonomously. Simulation done in Carla Simulator.  Reference velocity and waypoints are given for a race track.
+
+<p align="center">
+<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/self_drive.gif" width = 400>
+</p>
 
 ## Dependencies
 * Python 3.6
@@ -12,23 +16,23 @@ In Carla Simulator for a race track, reference velocity and waypoints are given.
 * Implemented PID controller for the velocity control. Simulation was done in Carla Simulator.
 
 <p align="center">
-<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/PID.png" width = 350>
+<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/PID.png" width = 400>
 </p>
 
 * Implemented Stanley Controller for the steering control. Stanley Controller is based on Bicycle Model.
 <p align="center">
-<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/stanley_controller.png" width = 350>
+<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/stanley_controller.png" width = 450>
 </p>
 
 ## Output
 * Trajectory Control as compared to ground truth.
 <p align="center">
-<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/result.png" width = 350>
+<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/result.png" width = 500>
 </p>
 
 * Speed as compared to ground truth
 <p align="center">
-<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/speed.png" width = 350>
+<img src="https://github.com/varunasthana92/Velocity_Steering_Control_Self_Drive_Car/blob/main/images/speed.png" width = 500>
 </p>
 
 ## Run Instructions
